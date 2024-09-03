@@ -1,0 +1,12 @@
+3) Ao final a variável SOMA terá o valor de 65;
+
+4a) 9;
+4b) 128;
+4c) 49;
+4d) 100;
+4e) 13;
+4f) 20;
+
+5) Interruptor A: A lâmpada que está apagada, mas quente ao toque, é controlada pelo A;
+Interruptor B: A lâmpada que está acesa é controlada pelo B;
+Interruptor C: A lâmpada que está apagada e fria é controlada pelo C;
